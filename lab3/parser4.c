@@ -1,5 +1,5 @@
 #include<stdio.h>
-// S -> ABCD
+// S -> AB|CD
 // A -> aA|b
 // B -> bB|c
 // C -> cC|d
